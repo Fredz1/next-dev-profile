@@ -6,7 +6,7 @@ const ProjectCard = props => {
       <h4>{ props.data.name }</h4>
       <p>{ props.data.discription }</p>
       <p>Github: { props.data.gitRepo }</p>
-      <p>Heroku: { props.data.herokuLink }</p>
+      <p>Link: { props.data.herokuLink }</p>
 
       <style jsx>
         {`

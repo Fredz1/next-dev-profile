@@ -20,6 +20,12 @@ const projects = () => {
       discription: 'Minesweeper the popular game',
       gitRepo: 'not available',
       herokuLink: 'https://aqueous-escarpment-38345.herokuapp.com/'
+    },
+    {
+      name: 'World Stats Explorer',
+      discription: 'Salary Infomation for each country',
+      gitRepo: 'https://github.com/Fredz1/worldStatsNextJS.git',
+      herokuLink: 'https://world-stats-next-js-v2.vercel.app/'
     }
   ]
 
